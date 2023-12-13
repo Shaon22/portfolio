@@ -15,7 +15,7 @@ const Techonologies = () => {
             <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between">
 
                 <div className="lg:w-[50%]">
-                    <h1 className="text-center text-xs font-semibold lg:text-xl lg:font-medium">Technologies I know</h1>
+                    <h1 className="text-center text-xs font-semibold lg:text-xl lg:font-medium">Technologies I Know</h1>
                     <div className="w-[50%] mx-auto grid grid-cols-3 gap-10 mt-10">
                         <div data-aos="fade-right"
                             data-aos-duration="3000">
