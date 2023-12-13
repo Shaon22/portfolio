@@ -12,7 +12,7 @@ const Techonologies = () => {
     return (
         <div className="lg:h-screen">
             <h1 className="font-bold mb-10 lg:text-3xl lg:mb-20 text-center">Technologies</h1>
-            <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between">
+            <div className="flex flex-col lg:flex-ro lg:items-center lg:justify-between">
 
                 <div className="lg:w-[50%]">
                     <h1 className="text-center text-xs font-semibold lg:text-xl lg:font-medium">Technologies I Know</h1>
@@ -50,7 +50,7 @@ const Techonologies = () => {
 
                     </div>
                 </div>
-
+01959601952
                 <div className=" lg:w-[50%]">
                         <div data-aos="flip-left"
                             data-aos-easing="ease-out-cubic"
